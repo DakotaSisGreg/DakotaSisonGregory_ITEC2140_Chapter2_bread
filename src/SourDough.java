@@ -3,7 +3,7 @@ public class SourDough extends Bread {
 
     public SourDough() {
         super("5.00 cups", "1.50 cups", "2.50 tsps", "Not specified", "Not specified", "1.00 tsp", "Sourdough Bread", "not baked", "See detailed recipe");
-        this.ripeStarter = "1.00 cup of ripe sourdough starter";
+        this.ripeStarter = "1.00 cup";
     }
 
 
